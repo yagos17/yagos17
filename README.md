@@ -20,17 +20,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <a href="emailto:yago.sona@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" target="_blank" /></a>
-  <a href="www.linkedin.com/in/yago-sona-3875a0253" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" target="_blank" /></a>
-  <a href[="https://wa.me/5511998737014" target="_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" target="_blank" /></a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yagos17/yagos17/output/snake.svg" alt="Snake animation" />
-
-###

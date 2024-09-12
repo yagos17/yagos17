@@ -31,6 +31,9 @@
 </div>
 
 <br>
-<br>
 
-<p>My Website: <a href="https://yagos17.github.io/Portfolio/#">https://yagos17.github.io/Portfolio/#</a></p>
+<div align="center">
+
+<a href="https://yagos17.github.io/Portfolio/#">My Website</a>
+  
+</div>

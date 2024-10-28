@@ -1,31 +1,45 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/aa8661f4-6b8b-4b44-b44c-98915c954ed0"/>
-<br>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=50&pause=1000&color=B44343&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Yago)](https://git.io/typing-svg)
-
-<br>
-
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yagos17&theme=dark&hide_border=true&border_radius=0&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=800&background=EB5454&border=EBEBEB&dates=EBEBEB&currStreakLabel=EBEBEB&fire=EBEBEB&ring=EBEBEB)](https://git.io/streak-stats)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5A2D91&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
 </div>
 
-<div align="center">
+#
 
-![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/yagos17?chart=calendar&format=svg&weeks=15&theme=red)
+<p align="center">Sou estudante de Ciência da Computação, com uma sólida formação como Técnico em TI, adquirida durante o ensino médio técnico. 
+  Minha paixão por tecnologia me inspira a explorar continuamente novas fronteiras no mundo da Informação e da Tecnologia.
+  
+#
 
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/Gmail-5A2D91?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yago.sona@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5A2D91?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-sona-3875a0253)
+[![Instagram](https://img.shields.io/badge/Instagram-5A2D91?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yagosona_/)
+
+<h3 align="left">My Stack ~</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
+  <img width="8" />
 </div>
 
-<div align="center">
+#
 
-<img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/7313e664-a613-49e4-afeb-a9711ea0b05e">
+![yagos17's Stats](https://github-readme-stats.vercel.app/api?username=yagos17&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![yagos17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagos17&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
-<img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/6688b485-145d-4aca-8f17-ba3af58d39cf">
+#
 
-<img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/7703c32f-599e-4798-8fa1-88e9d6d92cdf">
-
-<img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/5f6ee3f2-1c88-416f-895b-5e768162e29d">
-
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yagos17&bg_color=000000&color=5A2D91&line=5A2D91&point=5A2D91&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+#

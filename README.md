@@ -36,6 +36,8 @@
   <img width="8" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="25" alt="photoshop logo"  />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="github logo"  />
+  <img width="8" />
 </div>
 
 #

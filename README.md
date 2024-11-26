@@ -6,8 +6,8 @@
 
 #
 
-<p align="center">Sou estudante de Ciência da Computação, com uma sólida formação como Técnico em TI, adquirida durante o ensino médio técnico. 
-  Minha paixão por tecnologia me inspira a explorar continuamente novas fronteiras no mundo da Informação e da Tecnologia.
+<p align="center"> Sou estudante de Ciência da Computação, com formação técnica em TI. Tenho interesse em desenvolvimento web e foco em construir aplicações completas, 
+  utilizando práticas ágeis. Estou sempre em busca de aprimorar meus conhecimentos para criar soluções inovadoras e eficientes.
   
 #
 

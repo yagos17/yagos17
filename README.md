@@ -6,7 +6,7 @@
 
 #
 
-<p align="center"> I am a Computer Science student, with a technical background in IT. I am interested in web development, with a focus on building complete applications, using agile practices. Furthermore, I have a great interest in working with data, always seeking to improve my knowledge to create innovative and efficient solutions. I am constantly looking to learn new techniques and technologies to offer increasingly effective and impactful solutions.
+<p align="center"> I am a Computer Science student with an IT background, focused on web development and building complete applications using agile practices. I have a strong interest in data and am always looking to enhance my skills to create innovative and efficient solutions.
   
 #
 

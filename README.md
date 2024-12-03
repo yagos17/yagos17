@@ -6,8 +6,7 @@
 
 #
 
-<p align="center"> Sou estudante de Ciência da Computação, com formação técnica em TI. Tenho interesse em desenvolvimento web e foco em construir aplicações completas, 
-  utilizando práticas ágeis. Estou sempre em busca de aprimorar meus conhecimentos para criar soluções inovadoras e eficientes.
+<p align="center"> I am a Computer Science student, with a technical background in IT. I am interested in web development, with a focus on building complete applications, using agile practices. Furthermore, I have a great interest in working with data, always seeking to improve my knowledge to create innovative and efficient solutions. I am constantly looking to learn new techniques and technologies to offer increasingly effective and impactful solutions.
   
 #
 

@@ -66,10 +66,30 @@
 
 ## 🚀 My Projects
 
-### 💰 Expense Control
-A personal finance management app to track expenses and income efficiently.  
-Technologies used:  
+### 💰 Expense Control  
+A personal finance management app to track expenses and income efficiently.
+
+**Technologies used:**  
 <img src="https://img.shields.io/badge/Python-843cd6?style=flat&logo=windowsterminal&logoColor=white" />
 <img src="https://img.shields.io/badge/Tkinter-843cd6?style=flat&logo=windowsterminal&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-843cd6?style=flat&logo=microsoftsqlserver&logoColor=white" />  
+<img src="https://img.shields.io/badge/SQL_Server-843cd6?style=flat&logo=microsoftsqlserver&logoColor=white" />
+
 🔗 [Click here](https://github.com/yagos17/expense-control) to access the project.
+
+---
+
+### 📊 Data Analysis  
+A simple sales analysis using Python and Pandas to calculate key metrics and understand sales performance:  
+💡 **Total Sales Value**: Price × Quantity  
+📦 **Sales per Product**: Units sold by product  
+🏬 **Sales per Store**: Total sales by store  
+📉 **Remaining Stock**: Updated stock after sales  
+
+The results are displayed in an interactive BI Dashboard, making insights easy to understand and explore. 🚀
+
+**Technologies used:**  
+<img src="https://img.shields.io/badge/Python-843cd6?style=flat&logo=windowsterminal&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-843cd6?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-843cd6?style=flat&logo=powerbi&logoColor=white" />
+
+🔗 [Click here](https://github.com/yagos17/data-analysis) to access the project.

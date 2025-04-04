@@ -7,10 +7,10 @@
 ---
 
 <p align="center">
-  I am a Computer Science student with an IT background,<br>
-  focused on web development and building complete applications using agile practices.<br>
-  I have a strong interest in data and am always looking to enhance my skills<br>
-  to create innovative and efficient solutions.
+  💻 Computer Science student with a background in IT, passionate 
+  about data and creating innovative, impactful solutions. 
+  I strive to turn information into value, constantly improving 
+  my skills and exploring new possibilities.
 </p>
 
 ---

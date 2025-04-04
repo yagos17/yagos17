@@ -79,13 +79,7 @@ A personal finance management app to track expenses and income efficiently.
 ---
 
 ### 📊 Data Analysis  
-A simple sales analysis using Python and Pandas to calculate key metrics and understand sales performance:  
-💡 **Total Sales Value**: Price × Quantity  
-📦 **Sales per Product**: Units sold by product  
-🏬 **Sales per Store**: Total sales by store  
-📉 **Remaining Stock**: Updated stock after sales  
-
-The results are displayed in an interactive BI Dashboard, making insights easy to understand and explore. 🚀
+A simple sales analysis using Python and Pandas to calculate key metrics and understand sales performance. 
 
 **Technologies used:**  
 <img src="https://img.shields.io/badge/Python-843cd6?style=flat&logo=windowsterminal&logoColor=white" />

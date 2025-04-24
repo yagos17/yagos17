@@ -6,22 +6,38 @@
 
 ---
 
-<p>
-💻 Computer Science student with a background in IT 
-  and a genuine passion for data, technology, and innovation. 
-  I’m driven by the purpose of transforming information 
-  into value by developing creative, functional, and impactful solutions.
+<div align="center">
 
-🚀 Currently, I’m on a continuous learning journey, always 
-  seeking to explore new technologies, deepen my skills in Python, 
-  SQL, Data Analysis, and Systems Development, and engage in 
-  projects that combine purpose with efficiency.
+# 💻 About Me
 
-👨‍💻 I value challenges and believe in the power of curiosity and 
-  hands-on experience to generate real results. On my GitHub, you’ll 
-  find projects that reflect my learning journey, commitment, 
-  and desire to make a difference through technology.
-</p>
+I’m a **Computer Science student** with a background in IT and a genuine passion for **data**, **technology**, and **innovation**.  
+My goal is to transform **information into value** through the development of **creative**, **functional**, and **impactful solutions**.
+
+---
+
+## 🚀 Always Growing
+
+I'm continuously expanding my knowledge and seeking opportunities to:
+
+<table align="center">
+  <tr><td align="left">🔹 Explore new technologies</td></tr>
+  <tr><td align="left">🔹 Strengthen my skills in <strong>Python</strong>, <strong>SQL</strong>, <strong>Data Analysis</strong>, and <strong>System Development</strong></td></tr>
+  <tr><td align="left">🔹 Build meaningful projects that balance <strong>purpose</strong> and <strong>efficiency</strong></td></tr>
+</table>
+
+---
+
+## 👨‍💻 What Drives Me
+
+I embrace challenges and believe curiosity and practice drive real impact. Check out my [GitHub](https://github.com/yagos17) to see this in action.
+
+<table align="center">
+  <tr><td align="left">✔️ Projects that reflect my journey and evolution</td></tr>
+  <tr><td align="left">✔️ A commitment to learning and innovation</td></tr>
+  <tr><td align="left">✔️ A passion for making a difference through technology</td></tr>
+</table>
+
+</div>
 
 ---
 

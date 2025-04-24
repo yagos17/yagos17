@@ -13,8 +13,6 @@
 I’m a **Computer Science student** with a background in IT and a genuine passion for **data**, **technology**, and **innovation**.  
 My goal is to transform **information into value** through the development of **creative**, **functional**, and **impactful solutions**.
 
----
-
 </div>
 
 ---

@@ -15,28 +15,6 @@ My goal is to transform **information into value** through the development of **
 
 ---
 
-## 🚀 Always Growing
-
-I'm continuously expanding my knowledge and seeking opportunities to:
-
-<table align="center">
-  <tr><td align="left">🔹 Explore new technologies</td></tr>
-  <tr><td align="left">🔹 Strengthen my skills in <strong>Python</strong>, <strong>SQL</strong>, <strong>Data Analysis</strong>, and <strong>System Development</strong></td></tr>
-  <tr><td align="left">🔹 Build meaningful projects that balance <strong>purpose</strong> and <strong>efficiency</strong></td></tr>
-</table>
-
----
-
-## 👨‍💻 What Drives Me
-
-I embrace challenges and believe curiosity and practice drive real impact. Check out my [GitHub](https://github.com/yagos17) to see this in action.
-
-<table align="center">
-  <tr><td align="left">✔️ Projects that reflect my journey and evolution</td></tr>
-  <tr><td align="left">✔️ A commitment to learning and innovation</td></tr>
-  <tr><td align="left">✔️ A passion for making a difference through technology</td></tr>
-</table>
-
 </div>
 
 ---

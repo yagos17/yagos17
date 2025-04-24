@@ -65,7 +65,7 @@ I aim to turn **information into value** by developing **creative**, **functiona
 ## ⚡ Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yagos17&bg_color=000000&color=843cd6&line=843cd6&point=843cd6&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yagos17&bg_color=000000&color=843cd6&line=843cd6&point=843cd6&area=true&hide_border=false" alt="Activity Graph" />
 </div>
 
 ---

@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center">
+<p>
 💻 Computer Science student with a background in IT 
   and a genuine passion for data, technology, and innovation. 
   I’m driven by the purpose of transforming information 

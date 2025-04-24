@@ -6,14 +6,12 @@
 
 ---
 
-<div align="center">
-
 # 💻 About Me
 
-I’m a **Computer Science student** with a background in IT and a genuine passion for **data**, **technology**, and **innovation**.  
-My goal is to transform **information into value** through the development of **creative**, **functional**, and **impactful solutions**.
+I’m a **Computer Science student** with a background in IT and a true passion for **data**, **technology**, and **innovation**.  
+I aim to turn **information into value** by developing **creative**, **functional**, and **impactful solutions**.
 
-</div>
+> *"Transformar dados em decisões é transformar ideias em ação." — Yago Sona*
 
 ---
 
@@ -42,6 +40,14 @@ My goal is to transform **information into value** through the development of **
   <img width="10"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" height="30" alt="SQL Server" />
 </div>
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL & Stored Procedures  
+- Data Visualization with Power BI  
+- GUI development with Tkinter
 
 ---
 

@@ -54,8 +54,8 @@ I aim to turn **information into value** by developing **creative**, **functiona
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yagos17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yagos17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yagos17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yagos17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -65,7 +65,7 @@ I aim to turn **information into value** by developing **creative**, **functiona
 ## ⚡ Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yagos17&bg_color=000000&color=843cd6&line=843cd6&point=843cd6&area=true&hide_border=false" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yagos17&bg_color=000000&color=843cd6&line=843cd6&point=843cd6&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -81,15 +81,3 @@ A personal finance management app to track expenses and income efficiently.
 <img src="https://img.shields.io/badge/SQL_Server-843cd6?style=flat&logo=microsoftsqlserver&logoColor=white" />
 
 🔗 [Click here](https://github.com/yagos17/expense-control) to access the project.
-
----
-
-### 📊 Data Analysis  
-A simple sales analysis using Python and Pandas to calculate key metrics and understand sales performance. 
-
-**Technologies used:**  
-<img src="https://img.shields.io/badge/Python-843cd6?style=flat&logo=windowsterminal&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-843cd6?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-843cd6?style=flat&logo=powerbi&logoColor=white" />
-
-🔗 [Click here](https://github.com/yagos17/data-analysis) to access the project.

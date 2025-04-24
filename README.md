@@ -13,14 +13,14 @@
   into value by developing creative, functional, and impactful solutions.
 
 🚀 Currently, I’m on a continuous learning journey, always 
-seeking to explore new technologies, deepen my skills in Python, 
-SQL, Data Analysis, and Systems Development, and engage in 
-projects that combine purpose with efficiency.
+  seeking to explore new technologies, deepen my skills in Python, 
+  SQL, Data Analysis, and Systems Development, and engage in 
+  projects that combine purpose with efficiency.
 
 👨‍💻 I value challenges and believe in the power of curiosity and 
-hands-on experience to generate real results. On my GitHub, you’ll 
-find projects that reflect my learning journey, commitment, 
-and desire to make a difference through technology.
+  hands-on experience to generate real results. On my GitHub, you’ll 
+  find projects that reflect my learning journey, commitment, 
+  and desire to make a difference through technology.
 </p>
 
 ---

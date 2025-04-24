@@ -7,10 +7,20 @@
 ---
 
 <p align="center">
-  💻 Computer Science student with a background in IT, passionate 
-  about data and creating innovative, impactful solutions. 
-  I strive to turn information into value, constantly improving 
-  my skills and exploring new possibilities.
+💻 Computer Science student with a background in IT 
+  and a genuine passion for data, technology, and innovation. 
+  I’m driven by the purpose of transforming information 
+  into value by developing creative, functional, and impactful solutions.
+
+🚀 Currently, I’m on a continuous learning journey, always 
+seeking to explore new technologies, deepen my skills in Python, 
+SQL, Data Analysis, and Systems Development, and engage in 
+projects that combine purpose with efficiency.
+
+👨‍💻 I value challenges and believe in the power of curiosity and 
+hands-on experience to generate real results. On my GitHub, you’ll 
+find projects that reflect my learning journey, commitment, 
+and desire to make a difference through technology.
 </p>
 
 ---

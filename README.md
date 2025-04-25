@@ -40,6 +40,8 @@ I aim to turn **information into value** by developing **creative**, **functiona
   <img width="10"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" height="30" alt="SQL Server" />
   <img width="10"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="30" alt="Excel" />
+  <img width="10"/>
 </div>
 
 ###

@@ -1,23 +1,23 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=843cd6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=843cd6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-# 💻 About Me
+# 💻 Sobre Mim
 
-I’m a **Computer Science student** with a background in IT and a true passion for **data**, **technology**, and **innovation**.  
-I aim to turn **information into value** by developing **creative**, **functional**, and **impactful solutions**.
+Sou um **estudante de Ciência da Computação** com formação em TI e uma verdadeira paixão por **dados**, **tecnologia** e **inovação**.  
+Meu objetivo é transformar **informação em valor**, desenvolvendo soluções **criativas**, **funcionais** e **impactantes**.
 
 > *"Transformar dados em decisões é transformar ideias em ação." — Yago Sona*
 
 ---
 
-<img align="right" src="./src/study.gif" alt="Study GIF" height="190px" />
+<img align="right" src="./src/study.gif" alt="GIF Estudando" height="190px" />
 
-## 🌐 Connect with me
+## 🌐 Conecte-se comigo
 
 [![Gmail](https://img.shields.io/badge/Gmail-843cd6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yago.sona@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-843cd6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-sona-3875a0253)
@@ -25,7 +25,7 @@ I aim to turn **information into value** by developing **creative**, **functiona
 
 ---
 
-## 🛠️ My Stack
+## 🛠️ Minha Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
@@ -42,22 +42,22 @@ I aim to turn **information into value** by developing **creative**, **functiona
 
 ---
 
-## ⚡ Activity Graph
+## ⚡ Gráfico de Atividades
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yagos17&bg_color=000000&color=843cd6&line=843cd6&point=843cd6&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yagos17&bg_color=000000&color=843cd6&line=843cd6&point=843cd6&area=true&hide_border=true" alt="Gráfico de Atividade" />
 </div>
 
 ---
 
-## 🚀 My Projects
+## 🚀 Meus Projetos
 
-### 💰 Expense Control  
-A personal finance management app to track expenses and income efficiently.
+### 💰 Controle de Gastos  
+Um app de controle financeiro pessoal para gerenciar despesas e receitas de forma eficiente.
 
-**Technologies used:**  
+**Tecnologias utilizadas:**  
 <img src="https://img.shields.io/badge/Python-843cd6?style=flat&logo=windowsterminal&logoColor=white" />
 <img src="https://img.shields.io/badge/Tkinter-843cd6?style=flat&logo=windowsterminal&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL_Server-843cd6?style=flat&logo=microsoftsqlserver&logoColor=white" />
 
-🔗 [Click here](https://github.com/yagos17/expense-control) to access the project.
+🔗 [Clique aqui](https://github.com/yagos17/expense-control) para acessar o projeto.

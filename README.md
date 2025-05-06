@@ -19,9 +19,9 @@ Meu objetivo é transformar **informação em valor**, desenvolvendo soluções 
 
 ## 🌐 Conecte-se comigo
 
-[![Gmail](https://img.shields.io/badge/Gmail-843cd6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yago.sona@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-843cd6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-sona-3875a0253)
-[![Instagram](https://img.shields.io/badge/Instagram-843cd6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yagosona_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge)](mailto:yago.sona@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/yago-sona-3875a0253)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/yagosona_/)
 
 ---
 

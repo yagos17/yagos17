@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=843cd6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,9 +19,16 @@ Meu objetivo é transformar **informação em valor**, desenvolvendo soluções 
 
 ## 🌐 Conecte-se comigo
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge)](mailto:yago.sona@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/yago-sona-3875a0253)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/yagosona_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yago.sona@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-sona-3875a0253)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yagosona_/)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yagos17&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yagos17&locale=en&hide_title=true&layout=compact&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
 ---
 
@@ -38,14 +45,12 @@ Meu objetivo é transformar **informação em valor**, desenvolvendo soluções 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" style="margin-left:10px;" />
 </div>
 
-###
-
 ---
 
 ## ⚡ Gráfico de Atividades
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yagos17&bg_color=000000&color=843cd6&line=843cd6&point=843cd6&area=true&hide_border=true" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yagos17&bg_color=20232A&color=6C63FF&line=6C63FF&point=6C63FF&area=true&hide_border=true" alt="Gráfico de Atividade" />
 </div>
 
 ---
@@ -56,8 +61,8 @@ Meu objetivo é transformar **informação em valor**, desenvolvendo soluções 
 Um app de controle financeiro pessoal para gerenciar despesas e receitas de forma eficiente.
 
 **Tecnologias utilizadas:**  
-<img src="https://img.shields.io/badge/Python-843cd6?style=flat&logo=windowsterminal&logoColor=white" />
-<img src="https://img.shields.io/badge/Tkinter-843cd6?style=flat&logo=windowsterminal&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-843cd6?style=flat&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-6C63FF?style=flat&logo=windowsterminal&logoColor=white" />
+<img src="https://img.shields.io/badge/Tkinter-6C63FF?style=flat&logo=windowsterminal&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-6C63FF?style=flat&logo=microsoftsqlserver&logoColor=white" />
 
 🔗 [Clique aqui](https://github.com/yagos17/expense-control) para acessar o projeto.

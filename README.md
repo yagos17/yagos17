@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Eu sou [Seu Nome]</h2>
+<h2 align="left">Olá 👋! Eu sou Yago</h2>
 <p align="left">Sou apaixonado por dados, design e tecnologia. Atualmente atuo com Business Intelligence, visualização de dados e ferramentas de design digital.</p>
 
 ###

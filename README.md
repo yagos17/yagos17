@@ -2,8 +2,14 @@
   <img src="assets/banner.gif" alt="Seu Banner" width="600" height="200"/>
 </p>
 
-# 💫 About Me:
-🔭 Projetos pessoais envolvendo Python, análise de dados com Power BI e desenvolvimento de interfaces com Figma e HTML/CSS.<br><br>👯 Dashboards de BI, ou automações com Python.<br><br>🤝 Aprimorar minhas habilidades em banco de dados e entender boas práticas de desenvolvimento backend.<br><br>🌱 Frameworks web em Python (como Flask e Django) e aprofundando meus conhecimentos em bancos de dados com SQL Server.<br><br>💬 Python, Power BI, design de interfaces no Figma, HTML/CSS e fundamentos de banco de dados.<br><br>💚 Além de tecnologia, sou apaixonado pelo Palmeiras.
+## 💫 Sobre mim
+
+🔭 Trabalho em projetos pessoais com Python, análise de dados com Power BI e desenvolvimento de interfaces usando Figma e HTML/CSS.  <br>  
+👯 Tenho interesse em colaborar com a criação de dashboards em BI e automações com Python.  <br>  
+🤝 Estou focado em aprimorar minhas habilidades com bancos de dados e aprender boas práticas de desenvolvimento backend.  <br>  
+🌱 Atualmente estudando frameworks web em Python, como Flask e Django, além de aprofundar meus conhecimentos em bancos de dados com SQL Server.  <br>  
+💬 Tenho familiaridade com Python, Power BI, design de interfaces no Figma, HTML/CSS e fundamentos de banco de dados.  <br>  
+💚 Fora da tecnologia, sou apaixonado pelo Palmeiras.
 
 
 ## 🌐 Socials:

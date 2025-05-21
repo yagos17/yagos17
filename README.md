@@ -1,7 +1,7 @@
 # Hi 👋! My name is Yago and I'm a Computer Science student from Brazil 🇧🇷
 
 <p align="center">
-  <img src="/mnt/data/823fac7d-2f3b-447d-83f4-4106226cc0db.png" width="200" style="border-radius: 20px" alt="Yago Avatar">
+  <img src="/823fac7d-2f3b-447d-83f4-4106226cc0db.png" width="200" style="border-radius: 20px" alt="Yago Avatar">
 </p>
 
 ---

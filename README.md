@@ -1,3 +1,5 @@
+![Your Alt Text](assets/banner.gif)
+
 # 💫 About Me:
 🔭 I’m currently working on: projetos pessoais envolvendo Python, análise de dados com Power BI e desenvolvimento de interfaces com Figma e HTML/CSS.<br><br>👯 I’m looking to collaborate on: dashboards de BI, ou automações com Python.<br><br>🤝 I’m looking for help with: aprimorar minhas habilidades em banco de dados e entender boas práticas de desenvolvimento backend.<br><br>🌱 I’m currently learning: frameworks web em Python (como Flask e Django) e aprofundando meus conhecimentos em bancos de dados com SQL Server.<br><br>💬 Ask me about: Python, Power BI, design de interfaces no Figma, HTML/CSS e fundamentos de banco de dados.<br><br>💚 Fun fact: Além de tecnologia, sou apaixonado pelo Palmeiras.
 

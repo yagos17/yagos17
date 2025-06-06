@@ -8,8 +8,7 @@
 👯 Tenho interesse em colaborar com a criação de dashboards em BI e automações com Python.  <br>  
 🤝 Estou focado em aprimorar minhas habilidades com bancos de dados e aprender boas práticas de desenvolvimento backend.  <br>  
 🌱 Atualmente estudando frameworks web em Python, como Flask e Django, além de aprofundar meus conhecimentos em bancos de dados com SQL Server.  <br>  
-💬 Tenho familiaridade com Python, Power BI, design de interfaces no Figma, HTML/CSS e fundamentos de banco de dados.  <br>  
-💚 Fora da tecnologia, sou apaixonado pelo Palmeiras.
+💬 Tenho familiaridade com Python, Power BI, design de interfaces no Figma, HTML/CSS e fundamentos de banco de dados.  <br>
 
 
 ## 🌐 Socials:
